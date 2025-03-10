@@ -1,0 +1,309 @@
+Card#,Artist,Title,URL,Hashed Info,Youtube-Title,Year
+1,The Trammps,Disco inferno,,,,1976
+2,Gipsy Kings,Volare (Nel Blu Di Pinto Di Blu),,,,1989
+3,Yazoo,Don't Go,,,,1982
+4,Elvis Presley,Can't Help Falling In Love,,,,1961
+5,Lukas Graham,7 Years,,,,2015
+6,Kendji Girac,Andalouse,,,,2014
+7,K.Maro,Femme Like U,,,,2004
+8,Alain Souchon,Foule sentimentale,,,,1993
+9,Axelle Red,Sensualité,,,,1993
+10,Thelma Houston,Don't Leave Me This Way,,,,1976
+11,The Beatles,Get Back,,,,1969
+12,Alain Bashung,Osez Joséphine,,,,1991
+13,Jeanne Mas,En rouge et noir,,,,1986
+14,Francis Lalanne,On se retrouvera,,,,1986
+15,Youssou N'Dour et Neneh Cherry,7 Seconds,,,,1994
+16,Alicia Keys,No One,,,,2007
+17,Peter et Sloane,"Besoin de tien, envie de toi",,,,1984
+18,Vanille Ice,Ice Ice Baby,,,,1990
+19,Eddy de Pretto,Fête de trop,,,,2017
+20,Sam Cooke,(What A) Wonderful World,,,,1960
+21,Damso,O. Macarena,,,,2017
+22,OneRepublic,Counting Stars,,,,2013
+23,Eddy Mitchell,Be Bop A Lula,,,,1961
+24,Youssoupha et Ayna,On se connaît,,,,2012
+25,Mark Morrison,Return Of The Mack,,,,1996
+26,Natalie Imbruglia,Torn,,,,1997
+27,Soprano,En feu,,,,2016
+28,Eurythmics,Sweet Dreams (Are Made Of This),,,,1983
+29,Kanye West et Jamie Foxx,Gold Digger,,,,2005
+30,Chicago,If You Leave Me Now,,,,1976
+31,Jason Derulo,Whatcha Say,,,,2009
+32,Pierre Perret,Les jolies colonies de vacances,,,,1966
+33,Rick James,Super Freak,,,,1981
+34,Dave,Vanina,,,,1974
+35,Michel Fugain et Le Big Bazar,Attention mesdames et messieurs,,,,1972
+36,The Human League,Don't You Want Me,,,,1981
+37,Roch Voisine,Hélène,,,,1989
+38,Indochine,L'aventurier,,,,1982
+39,Rick Astley,Never Gonna Give You Up,,,,1987
+40,Harry Styles,Adore You,,,,2019
+41,Wet Wet Wet,Love Is All Around,,,,1994
+42,Sinéad O'Connor,Nothing Compares 2 U,,,,1990
+43,Téléphone,Cendrillon,,,,1982
+44,Tom Jones et Mousse T.,Sex Bomb,,,,1999
+45,The Supremes,You Can't Hurry Love,,,,1966
+46,Patrick Sébastien,Les sardines,,,,2006
+47,Dolly Parton,Jolene,,,,1973
+48,Larusso,Tu m'oublieras,,,,1998
+49,Patrick Bruel,Casset la voix,,,,1989
+50,Superbus,Butterfly,,,,2006
+51,Joseito Fernandez,Guajira Guantanamera,,,,1929
+52,Lomepal,Trop beau,,,,2018
+53,Jessie J et B.O.B.,Price Tag,,,,2011
+54,Sylvester,You Make Me Feel (Mighty Real),,,,1978
+55,Jacques Dutronc,"Il est cinq heures, Paris s'éveille",,,,1968
+56,Kelly Clarkson,Because Of You,,,,2005
+57,2 Be 3,Partir un jour,,,,1997
+58,Pharell Williams,Happy,,,,2013
+59,Christina Aguilera,Genie In A Bottle,,,,1999
+60,Meghan Trainor,All About That Bass,,,,2014
+61,Léo Ferré,Avec le temps,,,,1971
+62,Percy Sledge,When a Man Loves a Woman,,,,1966
+63,Sister Sledge,We Are Family,,,,1979
+64,Patrick Hernandez,Born To Be Alive,,,,1978
+65,Louane,Avenir,,,,2014
+66,Shakira,Waka Waka (This Time For Africa),,,,2010
+67,Modjo,Lady (Hear Me Tonight),,,,2000
+68,Dr. Alban,Sing Hallelujah!,,,,1993
+69,Zebba,Tomber la chemise,,,,1999
+70,Michel Sardou,Les lacs du Connemara,,,,1981
+71,Zaz,Je veux,,,,2010
+72,Adele,Set Fire To The Rain,,,,2011
+73,Kool & The Gang,Celebration,,,,1980
+74,The Chordettes,Lollipop,,,,1958
+75,Prince,Purple Rain,,,,1984
+76,Enrico Caruso,La Donna E Mobile (Rigoletto),,,,1908
+77,Alvaro Soler,La Cintura,,,,2018
+78,Haddaway,What Is Love,,,,1993
+79,France Gall,Il jouait du piano debout,,,,1980
+80,Queen et David Bowie,Under Pressure,,,,1981
+81,Michel Delpech,Pour un flirt,,,,1971
+82,Olivia Ruiz,La femme chocolat,,,,2005
+83,Gleen Miller,In The Mood,,,,1939
+84,Lio,Les brunes comptent pas pour des prunes,,,,1986
+85,Bigflo et Oli,Dommage,,,,2017
+86,Mika,"Relax, Take It Easy",,,,2007
+87,Aqua,Barbie Girl,,,,1997
+88,Vianney,Pas là,,,,2015
+89,Coolio et L.V.,Gangsta's Paradise,,,,1995
+90,Dean Martin,That's Amore,,,,1953
+91,Michael Jackson,Beat It,,,,1983
+92,Annie Lennox,Why,,,,1992
+93,Julie Pietri,Eve lève-toi,,,,1986
+94,The Beatles,Let It Be,,,,1970
+95,Red Hot Chili Peppers,Under The Bridge,,,,1992
+96,Britney Spears,Oops!... I Did It Again,,,,2000
+97,Oasis,Wonderwall,,,,1995
+98,Tweenty One Pilots,Stressed Out,,,,2015
+99,Spice Girls,Stop,,,,1998
+100,Marvin Gaye,I Heard It Through The Grapevine,,,,1968
+101,Lady Gaga,Poker Face,,,,2008
+102,Gilbert Montagné,Les sunlights des tropiques,,,,1985
+103,Sinsémilia,Tout le bonheur du monde,,,,2004
+104,Ace Of Base,All That She Wants,,,,1992
+105,Elvis Presley,Jailhouse Rock,,,,1957
+106,Michel Berger,La groupie du pianiste,,,,1980
+107,"Patrick Fiori, Garou et Daniel Lavoie",Belle,,,,1998
+108,Chantal Goya,Un lapin,,,,1977
+109,Whitney Houston,I Wanna Dance With Somebody (Who Loves Me),,,,1987
+110,Ritchie Valens,La Bamba,,,,1958
+111,Suylvie Vartan,La plus belle pour aller danser,,,,1964
+112,Tayc,N'y pense plus,,,,2020
+113,DJ Snake et Justin Bieber,Let Me Love You,,,,2016
+114,Chuck Berry,Johnny B. Goode,,,,1958
+115,Billie Eilish,Bad Guy,,,,2019
+116,Chubby Checker,The Twist,,,,1960
+117,Bob Sinclar et Steve Edwards,"World, Hold On (Children Of The Sky)",,,,2006
+118,Bruna Mars,The Lazy Song,,,,2011
+119,The Archies,"Sugar, Sugar",,,,1969
+120,France Gall,"Poupée de cire, poupée de son",,,,1965
+121,Nekfeu,On verra,,,,2015
+122,Owl City,Fireflies,,,,2009
+123,Stevie Wonder,"Signed, Sealed, Delivered (I'M Yours)",,,,1970
+124,Maroon 5 et Christina Aguilera,Moves Like Jagger,,,,2011
+125,Charles Aznavour,J'me voyais déjà,,,,1961
+126,Vanessa Paradis,Joe Le Taxi,,,,1987
+127,Calogero,En apesanteur,,,,2002
+128,Jean Ferrat,Aimer à perdre la raison,,,,1971
+129,Sophie Ellis-Bextor,Murder On The Dancefloor,,,,2001
+130,Kaoma,Lambada,,,,1989
+131,La Compagnie Créole,La bal masqué,,,,1984
+132,Amy Winehouse,Rehab,,,,2006
+133,Grégory Lemarchal,Ecris l'histoire,,,,2005
+134,Yannick Noah,Saga Africa (ambiance secousse),,,,1991
+135,Reel 2 Real et The Mad Stuntman,I Like To Move It,,,,1993
+136,Johnny Hallyday,Allumer le feu,,,,1998
+137,The Police,Every Breath You Take,,,,1983
+138,Wejdene,Anissa,,,,2020
+139,Nirvana,Smells Like Teen Spirit,,,,1991
+140,Marc Lavoine,Elle a les yeux revolver,,,,1985
+141,MC Solar,Hasta la vista,,,,2001
+142,Jenifer,Au soleil,,,,2002
+143,Daft Punk,One More Time,,,,2000
+144,Henri Salvador,"Une chanson douce - Le Loup, la biche et le chevalier",,,,1950
+145,Alicia Keys,Fallin',,,,2001
+146,Serge Gainsbourg,La javanaise,,,,1963
+147,The Champs,Tequila,,,,1958
+148,Dua Lipa,Break My Heart,,,,2020
+149,Naps,La kiffance,,,,2021
+150,Miley Cyrus,Wrecking Ball,,,,2013
+151,Sia,Cheap Thrills,,,,2015
+152,Mad'House,Like A Prayer,,,,2002
+153,Black Eyed Peas,Where Is The Love?,,,,2003
+154,John Travolta et Olivia Newton-John,You're The One That I Want,,,,1978
+155,Chic,Le freak,,,,1978
+156,Vegedream,Ramenez la coupe à la maison,,,,2018
+157,Hélènz Ségara,Il y a trop de gens qui t'aiment,,,,1999
+158,Thierry Hazard,Le jerk,,,,1990
+159,Serge Lama,Je suis malade,,,,1973
+160,David Bowie,Life on Mars?,,,,1973
+161,Barry White,"You're The First, The Last, My everything",,,,1974
+162,Diana Ross,Upside Down,,,,1980
+163,Guns N'Roses,Sweet Child O' Mine,,,,1988
+164,Dire Straits,Walk of Life,,,,1985
+165,Début de soirée,Nuit de Folie,,,,1988
+166,Aretha Franklin,Respect,,,,1967
+167,Jessy Matador,Allez Ola Olé,,,,2010
+168,Mylène Farmer,Désenchantée,,,,1991
+169,Lara Fabian,Je t'aime,,,,1997
+170,"Daft Punk, Pharell Williams et Nile Rodgers",Get Lucky,,,,2013
+171,Katy Perry,Firework,,,,2010
+172,Zouk Machine ,Maldon,,,,1990
+173,Boney M,Ma Baker,,,,1977
+174,Gotye,Somebody That I Used To Know,,,,2011
+175,Billy Swan,I Can Help,,,,1974
+176,Annie Cordy,La bonne du curé,,,,1974
+177,The Weeknd,Blinding Lights,,,,2019
+178,Alizée,Moi... Lolita,,,,2000
+179,Akon,Lonely,,,,2005
+180,Black M,Sur ma route,,,,2014
+181,Icona Pop et Charli XCX,I love It,,,,2012
+182,Suprême NTM,Laisse pas traîner ton fils,,,,1998
+183,"Madonna, Justin Timberlake et Timbaland",4 minutes,,,,2008
+184,Christine and The Queens,Christine,,,,2014
+185,R.E.M,Everybody Hurts,,,,1992
+186,Pop Wow,Le chat,,,,1992
+187,Renan Luce,La lettre,,,,2007
+188,Robbie Williams,Feel,,,,2002
+189,Barbara,L'aigle Noir,,,,1970
+190,Roy Orbison,"Oh, Pretty Woman",,,,1964
+191,Louise Attaque,J't'emmène au vent,,,,1997
+192,IAM,Je danse le Mia,,,,1993
+193,Indila,Dernière danse,,,,2013
+194,Synapson et Anna Kova,All In You,,,,2015
+195,Bénabar,Le dîner,,,,2005
+196,Sexion d'assaut,Ma direction,,,,2012
+197,Tragédie,Hey Oh,,,,2003
+198,"Major Lazer, DJ Snake et Mo",Lean On,,,,2015
+199,Les Rita Mitsouko,Marcia Baïla,,,,1984
+200,Bob Azzam,Mustapha,,,,1959
+201,Eagle-Eye Cherry,Save Tonight,,,,1997
+202,Renaud,Mistral Gagnant,,,,1985
+203,Avicii,Without You,,,,2017
+204,Tina Turner,The Best,,,,1989
+205,Fleetwood Mac,Everywhere,,,,1987
+206,Jul,Tchikita,,,,2016
+207,Françoise Hardy,Tous les garçons et les filles,,,,1962
+208,Manau,La Tribu de Dana,,,,1998
+209,Will Smith,Gettin' Jiggy Wit It,,,,1998
+210,Harry Belafonte,Day-O (The Banana Boat Song),,,,1956
+211,Snow,Informer,,,,1992
+212,Rednex,Cotton Eye Joe,,,,1994
+213,Shaggy,It Wasn't Me,,,,2000
+214,Duffy,Mercy,,,,2008
+215,Outkast,Hey Ya!,,,,2003
+216,Jevetta Steele,Calling You (Bagdad Cafe),,,,1988
+217,Patricia Kaas,Mon mec à moi,,,,1988
+218,The Verve,Bitter Sweet Symphony,,,,1997
+219,No doubt,Don't Speak,,,,1996
+220,Gérard Lenorman,La ballade des gens heureux,,,,1975
+221,Cyndi Lauper,True Colors,,,,1986
+222,Stromae,Alors on danse,,,,2009
+223,Betty Everett,It's In His Kiss (The Shoop Shoop Song),,,,1964
+224,Céline Dion et Jean-Jacques Goldman,J'irai où tu iras,,,,1995
+225,Nelly et Kelly Rowland,Dilemma,,,,2002
+226,Bill Medley et Jennifer Warnes,(I've Had) The Time Of My Life,,,,1987
+227,Sheila,Vous les copains,,,,1964
+228,Hugues Aufray,Adieu monsieur le professeur,,,,1968
+229,John Legend,All Of Me,,,,2013
+230,Little Eva,The Loco-Motion,,,,1962
+231,Eros Ramazzotti,Più Bella Cosa,,,,1996
+232,Zaho,C'est chelou,,,,2008
+233,TOTO,Africa,,,,1982
+234,50 Cent,In Da Club,,,,2003
+235,The Rolling Stones,Start Me Up,,,,1981
+236,"Macklemore, Ryan Lewis et Ray Dalton",Can't Hold Us,,,,2011
+237,Julien Clerc,Femmes... Je vous aime,,,,1982
+238,Alain Delon et Dalida,Paroles paroles,,,,1973
+239,Jennifer Lopez,If You Had My Love,,,,1999
+240,The Beach Boys,Surfin' U.S.A.,,,,1963
+241,The Cranberries,Zombie,,,,1994
+242,Amy MacDonald,This Is The Life,,,,2007
+243,Bronski Beat,Smalltown Boy,,,,1984
+244,Amel Bent,Ma Philosophie,,,,2004
+245,Bill Haley & His Comets,(We're Gonna) Rock Around The Clock,,,,1954
+246,Justice,D.A.N.C.E,,,,2007
+247,Drake,Toosie Slide,,,,2020
+248,Claude François,Belles belles belles,,,,1962
+249,Lorie,Je Serai (Ta Meilleure Amie),,,,2001
+250,Tracy Chapman,Fast Car,,,,1988
+251,Beyoncé et Jay-Z,Crazy In Love,,,,2003
+252,George Michael et Aretha Franklin,I Knew You Were Waiting (For Me),,,,1987
+253,Therapie TAXI,Été 90,,,,2021
+254,Mabel,Don't Call Me Up,,,,2019
+255,Nicoletta,La musique,,,,1967
+256,Dany Brillant,Quand je vois tes yeux,,,,1996
+257,Orelsan,Basique,,,,2017
+258,Rufus et Chaka Khan,Ain't Nobody,,,,1983
+259,Yelle,À cause des garçons,,,,2007
+260,Mungo Jerry,In The Summertime,,,,1970
+261,Fats Domino,Ain't That A Shame,,,,1955
+262,Ophélie Winter,Dieu m'a donné la foi,,,,1995
+263,Las Ketchup,The Ketchup Song (Aserejé),,,,2002
+264,Eric Prydz,Call On Me,,,,2004
+265,Jean-Pierre Mader,Macumba,,,,1985
+266,Christophe Maé,On s'attache,,,,2007
+267,O-Zone,Dragostea Din Tei,,,,2003
+268,Dadju,Compliqué,,,,2019
+269,James Brown et The Famous Flames,I Got You (I Feel Good),,,,1965
+270,Claude Nougaro,Toulouse,,,,1967
+271,Grégoire,Toi + Moi,,,,2008
+272,Jean-Jacques Goldman,AU bout de mes rêves,,,,1983
+273,Véronique Sanson,Besoin de personne,,,,1972
+274,Joe Dassin,Les Champs-Elysées,,,,1969
+275,Daniel Balavoine,Je ne suis pas un héros,,,,1980
+276,Christophe,Les mots bleus,,,,1974
+277,Diam's,La boulette (Génération nan nan),,,,2006
+278,Yves Montand,"Moi, je m'en fous",,,,1952
+279,Bob Marley & The Wailers,No Woman No Cry ,,,,1974
+280,Lynyrd Skynyrd,Sweet Home Alabama,,,,1974
+281,Michel Polnareff,On ira tous au paradis,,,,1972
+282,Ed Sheeran,Bad Habits,,,,2021
+283,Booba,Petite Fille,,,,2017
+284,Les Poppys,"Non, non, rien n'a changé",,,,1971
+285,Gims,Bella,,,,2013
+286,Amii Stewart,Knock On Wood,,,,1979
+287,Coeur de Pirate,Comme des enfants,,,,2009
+288,Francis Cabrel,Je l'aime à mourir,,,,1979
+289,Dalida,Laissez-moi danser,,,,1979
+290,Tones And I,Dance Monkey,,,,2019
+291,Aya Nakamura,Djadja,,,,2018
+292,Lady Gaga et Bradley Cooper,Shallow,,,,2018
+293,Train,"Hey, Soul Sister",,,,2009
+294,Tal,Le sens de la vie,,,,2012
+295,Salvatore Adamo,Tombe la neige,,,,1963
+296,Zazie,Je suis un homme,,,,2007
+297,The Kinks,Lola,,,,1970
+298,Plastic Bertrand,Ça plane pour moi,,,,1977
+299,-M- (Matthieu Chedid),Qui de nous deux,,,,2003
+300,Jean-Jacques Goldman,Quand la musique est bonne,,,,1982
+301,Angèle,Balance ton quoi,,,,2018
+302,Nancy Sinatra,These Boots Are Made For Walkin',,,,1965
+303,Jacques Brel,Ne me quitte pas,,,,1959
+304,Nino Ferrer,Le sud,,,,1975
+305,Elton John,Your Song,,,,1970
+306,ABBA,Waterloo,,,,1974
+307,The Everly Brothers,All I Have To Do Is Dream,,,,1958
+308,Mika,Elle me dit,,,,2011
