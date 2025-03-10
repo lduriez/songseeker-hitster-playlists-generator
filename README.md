@@ -1,4 +1,4 @@
-# songseeker-hitster-playlists-generator
+# songseeker-hitster-playlists-youtube-generator
 
 A tool to help generating CSV files containing Youtube links to the Hitster playing cards
 
@@ -9,7 +9,7 @@ Basically it's a tool made to generate Youtube URL, Youtube title and Hashed Inf
 ## Build
 
 ```bash
-docker build -t songseeker-hitster-playlists-generator .
+docker build -t songseeker-hitster-playlists-youtube-generator .
 ```
 
 ## Usage
@@ -17,5 +17,5 @@ docker build -t songseeker-hitster-playlists-generator .
 First create a temporary folder where you'll put the pre-complete CSV named `file.csv` (you need at least in the CSV file the columns Card#, Artist, Title and Year, you can find and example `file-example.csv`)
 
 ```bash
-docker run --rm -it -v <your_temporary_folder>:/tmp/ -e YOUTUBE_API_KEY=<YOUR_YOUTUBE_API_KEY> songseeker-hitster-playlists-generator
+docker run --rm -it -v <your_temporary_folder>:/tmp/ -e YOUTUBE_API_KEY=<YOUR_YOUTUBE_API_KEY> songseeker-hitster-playlists-youtube-generator
 ```
